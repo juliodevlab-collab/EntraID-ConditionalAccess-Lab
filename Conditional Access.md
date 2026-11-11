@@ -15,3 +15,19 @@ Décision
      │
      ▼
 Accès autorisé ou refusé
+
+
+
+Mot de passe correct
+        │
+        ▼
+Conditional Access
+        │
+        ▼
+MFA requis
+        │
+        ▼
+MFA validé
+        │
+        ▼
+Accès autorisé
